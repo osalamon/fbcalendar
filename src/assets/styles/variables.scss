@@ -1,0 +1,31 @@
+// == colors
+$blue: #338be8;
+$yellow: #f9c440;
+$orange: #f37329;
+$red: #c6262e;
+$green: #68b723;
+$grape: #a56de2;
+$brown: #715344;
+$silver: #abacae;
+$slate: #485a6c;
+$gray: #888;
+
+// light version
+$light: #666;
+$lblue: #69adf7;
+$blue: darken(#338be8, 5%);
+$qblue: #338be899;
+$dgray: #ffffff22;
+$bgray: #46627f;
+$dblack: #ddd;
+$white: #fff;
+$navigation: #ffffffee;
+$bodybg: #eee;
+$footerbg: #eee;
+$borderActivity: 1px solid rgba(0, 0, 0, 0.125);
+$lightbg: #fff;
+
+// == classes
+.blue {
+  color: $blue
+}
