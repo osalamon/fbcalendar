@@ -24,23 +24,18 @@ query {
 
 <script>
 import LoginModal from '~/components/LoginModal'
+const axios = require('axios')
 
 export default {
   components: {
     LoginModal
   },
   methods: {
-      showModal(id) {
-        this.$refs[id].show()
-      },
-      hideModal(id) {
-        this.$refs[id].hide()
-      },
-      toggleModal(id) {
-        // We pass the ID of the button that we want to return focus to
-        // when the modal has hidden
-        this.$refs[id].toggle('#toggle-btn')
-      }
+  },
+  created() {
+    axios
+      .get('https://api.coindesk.com/v1/bpi/currentprice.json')
+      .then(response => (this.info = response))
   }
 }
 </script>

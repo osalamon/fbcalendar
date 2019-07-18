@@ -1,3 +1,6 @@
+@import 'bootstrap/scss/bootstrap.scss';
+@import 'bootstrap-vue/src/index.scss';
+
 @import './variables.scss';
 
 html {
@@ -33,6 +36,3 @@ html {
     }
   }
 }
-
-@import 'bootstrap/scss/bootstrap.scss';
-@import 'bootstrap-vue/src/index.scss';
