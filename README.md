@@ -1,6 +1,8 @@
 # FBCalendar - Fetch Events' Time/Dates & Show them Clearly as a Calendar
 
-**This is the ultimate goal of the project. A few of computer users (like me) do not like checking her/his Facebook several times a day. But they want to be acquainted of interesting events, held by people behind some FB page, which users are following.** 
+### NOTE FOR MYSELF: Start over, completely! Use some more up to date technology. Use some tech which, timely, showed itself up as more adopted and mature. Not Gridsome etc, possibly Remix or so.
+
+**This is the ultimate goal of the project. A few of computer users (like me) do not like checking her/his Facebook several times a day. But they want to be acquainted of interesting events, held by people behind some FB page/group followed by like-minded people.** 
 
 I would like to have a tool like this a long time ago. But the project is still work in progress, unfortunately. When I got full-time developer job position, it is almost impossible to find a time to work on an "hobby" project like this one.
 
