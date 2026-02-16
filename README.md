@@ -12,14 +12,14 @@
 
 ---
 
-~## FBCalendar - Fetch Events' Time/Dates & Show them Clearly as a Calendar~
+~~## FBCalendar - Fetch Events' Time/Dates & Show them Clearly as a Calendar~~
 
-~**This is the ultimate goal of the project. Fewcomputer users (like me) do not like checking her/his Facebook several times a day. But they want to be acquainted of interesting events, held by people behind some FB page/group followed by like-minded people.**~
+~~**This is the ultimate goal of the project. Fewcomputer users (like me) do not like checking her/his Facebook several times a day. But they want to be acquainted of interesting events, held by people behind some FB page/group followed by like-minded people.**~~
 
-~I would like to have a tool like this a long time ago. But the project is still work in progress, unfortunately. When I got full-time developer job position, it is almost impossible to find a time to work on an "hobby" project like this one.~
+~~I would like to have a tool like this a long time ago. But the project is still work in progress, unfortunately. When I got full-time developer job position, it is almost impossible to find a time to work on an "hobby" project like this one.~~
 
 ---
 
 ## Default starter for [Gridsome](https://gridsome.org/)
 
-~A Jamstack framework for Vue.js = makes it easy for developers to build static generated websites & apps that are fast by default 🚀~
+~~A Jamstack framework for Vue.js = makes it easy for developers to build static generated websites & apps that are fast by default 🚀~~
