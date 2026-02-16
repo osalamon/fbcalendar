@@ -5,7 +5,7 @@
 - With exception of researching FB's APIs and figuring out suitable tech stack, I have never started actual work.
 - Regarding technology stack: I changed my mind "only" three times in the course of years:D 
 - It belongs to a group of cca three oldest projects, which I figured out myself and/or started developing. 
-- complexity a way beyond common "Hello world!" tutorials or college courses.
+- It has a complexity far beyond common "Hello world!" tutorials or college courses.
 - It had to be answer to my lasting issue with FB: I didn't want to engage with this platform at all (still valid!), but its agenda around "Events" has been valuable for me to this day.
 - Later on, I wanted to add more features, like checking what friends are up to, etc.
 - I am still wondering how it's possible that I couldn't find a solution to this issue.
